@@ -2,6 +2,8 @@
 
 Technify is a versatile Android application that seamlessly combines note-taking functionality with video conferencing capabilities. This project embraces modern Android development practices, incorporating MVVM architecture, HILT for dependency injection, Coroutines for asynchronous programming, and Retrofit for efficient API integration. The app is designed to provide a responsive and user-friendly experience, featuring robust authentication handling, efficient validation, and a complete signup/login flow.
 
+![one](https://github.com/Smarshal-Verse/Technify/assets/99678760/910901a0-40bc-4dbe-a246-eef4e21f3873)
+
 ## Features
 
 ### 1. MVVM Setup
